@@ -30,7 +30,8 @@ Desafios da academia capgemini 2022
 ![image](https://user-images.githubusercontent.com/97314825/154881112-42f43a18-1375-4665-adfb-2d89769562b7.png)
 
 
-![image](https://user-images.githubusercontent.com/97314825/154881357-39f6b7f2-9b3f-443f-977a-ee77dd2965f8.png)
+![image](https://user-images.githubusercontent.com/97314825/154947240-547f465f-fe80-4865-af3f-977ead206689.png)
+
 
 
 
