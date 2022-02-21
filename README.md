@@ -10,6 +10,14 @@ Desafios da academia capgemini 2022
 4 adiciona a lista invertendo a escada de posição,
 5 percorre a lista e imprimi no console a escada
 
+![image](https://user-images.githubusercontent.com/97314825/154881018-85ac0f53-b5d8-473a-987c-f8963312edef.png)
+
+
+
+![image](https://user-images.githubusercontent.com/97314825/154881070-4c323977-7b5d-4c4c-a550-804fb8a8abdc.png)
+
+
+
 # Desafio da Senha 
 1 chama  a o método cadastroSenha,
 2 criando o método,
@@ -19,7 +27,17 @@ Desafios da academia capgemini 2022
 6 verifica se está entre o minimo de digitos,
 7 imprime erro se não tiver com os requisitos para construir a senha.
 
-# Desafio da Strinh
+![image](https://user-images.githubusercontent.com/97314825/154881112-42f43a18-1375-4665-adfb-2d89769562b7.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/97314825/154881164-c4552d46-26a8-4267-b91b-a6c839622d6c.png)
+
+
+
+# Desafio da Strinh![image](https://user-images.githubusercontent.com/97314825/154881283-066f103b-2183-457e-b46c-a0a10c4fe0df.png)
+
 1 scaner para a entrada da palavra,
 2 imprime no console a frase a baixo,
 3 impreme no console a entrada e as posibilidades,
@@ -27,3 +45,11 @@ Desafios da academia capgemini 2022
 5 criando o map,
 6 verificando e formando novas strings,
 7 etonando o numero de posibilidades
+
+![image](https://user-images.githubusercontent.com/97314825/154881196-d221a3a7-0392-4dab-afdc-da14a5d32b2c.png)
+
+
+![Uploading image.png…]()
+
+
+
