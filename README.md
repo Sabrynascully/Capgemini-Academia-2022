@@ -38,7 +38,7 @@ Desafios da academia capgemini 2022
 
 
 
-# Desafio da Strinh![image]
+# Desafio da String
 
 1 scaner para a entrada da palavra,
 2 imprime no console a frase a baixo,
