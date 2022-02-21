@@ -37,7 +37,7 @@ Desafios da academia capgemini 2022
 
 
 
-# Desafio da Strinh![image](https://user-images.githubusercontent.com/97314825/154881283-066f103b-2183-457e-b46c-a0a10c4fe0df.png)
+# Desafio da Strinh![image]
 
 1 scaner para a entrada da palavra,
 2 imprime no console a frase a baixo,
@@ -48,9 +48,11 @@ Desafios da academia capgemini 2022
 7 etonando o numero de posibilidades
 
 ![image](https://user-images.githubusercontent.com/97314825/154881196-d221a3a7-0392-4dab-afdc-da14a5d32b2c.png)
+![image](https://user-images.githubusercontent.com/97314825/154881445-ae0afa33-f043-4d19-bef7-aaddd0c3fd2f.png)
 
 
-![Uploading image.png…]()
+
+
 
 
 
